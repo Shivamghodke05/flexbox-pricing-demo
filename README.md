@@ -33,8 +33,8 @@ Keeping a consistent, readable visual hierarchy
 
 Writing semantic and scalable code
 
-🚦 How to Use
-Clone the repo, then open index.html in your browser:
+--------------------------------------------------------------------------------------------------------------
 
-clone https://github.com/shivamghodke05/flexbox-pricing-demo.git
+https://shivamghodke05.github.io/flexbox-pricing-demo/
+
 No fancy build tools, no frameworks — just pure, simple HTML/CSS goodness.
